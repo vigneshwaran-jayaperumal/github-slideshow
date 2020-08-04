@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+- Set of thoughts
+    - nice
+    - better
+    - excellent
 Use the left arrow to go back!
